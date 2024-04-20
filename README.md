@@ -53,8 +53,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=동엽&postId=dongyeop00&theme=default)](https://github.com/loosie/github-readme-tistory-card) : https://dongyeop00.tistory.com/
-
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=동엽&postId=dongyeop00&theme=default)](https://github.com/loosie/github-readme-tistory-card)
 
   
 </div>
