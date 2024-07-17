@@ -6,9 +6,9 @@
   
   ### ⭐ Stats
   </br>
-  
-  ![dongyeop00's github stats](https://github-readme-stats.vercel.app/api?username=dongyeop00&show_icons=true&theme=great-gatsby)
-
+<div>
+    <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+</div>
   </br>
   
   ## 🔨 Stack
@@ -30,5 +30,3 @@
   </div>
   
 </div>
-<div align=left><h1><Beige Jun></h1><div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyeop00&layout=compact">
