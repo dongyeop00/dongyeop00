@@ -23,8 +23,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
+<!--
   ## Algorithm
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=window0417" width=40% />
-  
+  -->
 </div>
