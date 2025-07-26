@@ -26,7 +26,9 @@
 ---
 
 ## 📬 Contact
+name : GU DONGYEOP
 email : ehd_duq94@naver.com
+phone : +82-10-2541-9466
 
 <!--
   ## Algorithm
