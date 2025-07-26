@@ -26,9 +26,7 @@
 ---
 
 ## 📬 Contact
-<a href="mailto:ehd_duq94@naver.com">
-  <img src="https://img.shields.io/badge/ehd_duq94@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-</a>
+email : ehd_duq94@naver.com
 
 <!--
   ## Algorithm
