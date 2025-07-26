@@ -26,8 +26,8 @@
 ---
 
 ## 📬 Contact
-name : GU DONGYEOP
-email : ehd_duq94@naver.com
+name : GU DONGYEOP </br>
+email : ehd_duq94@naver.com </br>
 phone : +82-10-2541-9466
 
 <!--
