@@ -23,8 +23,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
+
+## 📬 Contact
+<a href="mailto:ehd_duq94@naver.com">
+  <img src="https://img.shields.io/badge/ehd_duq94@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+</a>
+
 <!--
   ## Algorithm
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=window0417" width=40% />
-  -->
+-->
 </div>
