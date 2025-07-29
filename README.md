@@ -9,7 +9,7 @@
 
 <b>BackEnd</b> </br>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Data jpa-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
 
 <b>DataBase</b> </br>
