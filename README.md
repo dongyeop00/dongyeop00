@@ -27,16 +27,13 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
+## 🧩 Algorithm
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=window0417" width=40% />
 
----
 
 ## 📬 Contact
 name : GU DONGYEOP </br>
 email : ehd_duq94@naver.com </br>
 phone : +82-10-2541-9466
 
-<!--
-  ## Algorithm
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=window0417" width=40% />
--->
-</div>
+
