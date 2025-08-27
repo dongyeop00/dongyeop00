@@ -28,7 +28,9 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ## 🧩 Algorithm
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=window0417" width=40% />
+<a href="https://solved.ac/profile/window0417" target="_blank">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=window0417" width="40%" />
+</a>
 
 
 ## 📬 Contact
