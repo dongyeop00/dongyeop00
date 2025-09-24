@@ -1,6 +1,6 @@
 <div align="left">
   
-  ## 🔨 Tech Skill
+<!--  ## 🔨 Tech Skill
 <b>FrontEnd</b> </br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@
 
 <b>Infra</b> </br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> -->
 
 ## 🧩 Algorithm
 <a href="https://solved.ac/profile/window0417" target="_blank">
