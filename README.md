@@ -6,7 +6,7 @@
 </a>
 
 ## 💼 Work
-**KCTech**
+**KCTech** (26.05.26 ~ ing)
 - Software Engineer | Advanced Development Team
 - Semiconductor Equipment Control Framework Development
 
